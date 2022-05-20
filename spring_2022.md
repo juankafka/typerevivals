@@ -1,5 +1,5 @@
 ---
 title: Type Revivals
 layout: projects
-class: fall_2020
+class: spring_2022
 ---
