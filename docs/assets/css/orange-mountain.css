@@ -503,7 +503,7 @@ html {
  height:100%
 }
 body {
- background:#0000ff;
+ background:#E0E0E0; #Grey
  font-family: 'IBM Plex Mono', monospace;
  font-weight:200;
  font-style: italic;
