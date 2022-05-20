@@ -503,7 +503,7 @@ html {
  height:100%
 }
 body {
- background:#0000ff;
+ background:#E0E0E0; #Grey
  font-family: 'IBM Plex Mono', monospace;
  font-weight:200;
  font-style: italic;
@@ -1159,7 +1159,7 @@ section {
  right:0;
  bottom:0;
  left:0;
- background:rgba(13, 0, 255,.75); #blue
+ background:rgba(10, 10, 10,0); #blue 13, 0, 255,.75
  overflow:auto;
  visibility:hidden;
  opacity:0;

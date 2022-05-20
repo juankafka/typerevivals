@@ -1159,7 +1159,7 @@ section {
  right:0;
  bottom:0;
  left:0;
- background:rgba(13, 0, 255,.75); #blue
+ background:rgba(10, 10, 10,0); #blue 13, 0, 255,.75
  overflow:auto;
  visibility:hidden;
  opacity:0;

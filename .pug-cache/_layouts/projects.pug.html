@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>{% include head %}
+  <body class="ajax-loading">{% include header %}
+    <div class="page">
+      <div class="page__content">
+        {% if page.class %}
+        {% assign projects = site.projects | where:'class', page.class %}
+        {% else %}
+        {% assign projects = site.projects %}
+        {% endif %}
+        {% include project_grid %}
+      </div>
+    </div>
+  </body>
+</html>

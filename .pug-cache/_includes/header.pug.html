@@ -1,0 +1,19 @@
+<header class="header">
+  <div class="wrap"><a class="header__title cc-active active-link" href="{{ site.baseurl }}/">Display Type Design</a>
+    <div class="menu">
+      <div class="menu__toggle js-menu-toggle">
+        <div class="menu__toggle__icon"><span></span></div>
+      </div>
+      <div class="menu__wrap">
+        <ul class="menu__list">
+          <li class="menu__list__item">{% if page.name == 'index.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/">Gallery</a>{% else %}<a class="menu__list__item__link" href="{{ site.baseurl }}/">Gallery</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'summer_2021.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/summer_2021">Summer 2021</a>{% else %}<a class="menu__list__item__link class-link" href="{{ site.baseurl }}/summer_2021">Summer 2021</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'spring_2021.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/spring_2021">Spring 2021</a>{% else %}<a class="menu__list__item__link class-link" href="{{ site.baseurl }}/spring_2021">Spring 2021</a>{% endif %}  </li>
+          <li class="menu__list__item">{% if page.name == 'fall_2020.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/fall_2020">Fall 2020</a>{% else %}<a class="menu__list__item__link class-link" href="{{ site.baseurl }}/fall_2020">Fall 2020</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'summer_2020.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/summer_2020">Summer 2020</a>{% else %}<a class="menu__list__item__link class-link" href="{{ site.baseurl }} /summer_2020">Summer 2020</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'about.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/about">About</a>{% else %}<a class="menu__list__item__link" href="{{ site.baseurl }}/about">About</a>{% endif %}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>

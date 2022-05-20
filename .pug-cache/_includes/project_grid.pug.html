@@ -1,0 +1,14 @@
+<section class="listing">
+  <div class="content-wrap listing-wrap">
+    <div class="grid-sizer"></div>{% for project in projects %}
+    {% if project.url != page.url %}
+    <div class="listing-item"><a class="listing-item__link" href="{{ site.baseurl }}{{ project.url }}">
+        <div class="listing-item__image"><img src="{{ site.baseurl }}{{ project.teaser }}"/></div>
+        <div class="listing-item__content listing-item__content--bottom">
+          <div class="listing-item__info">
+            <h2 class="listing-item__title">{{ project.title }}</h2>
+          </div>
+        </div></a></div>{% endif %}
+    {% endfor %}
+  </div>
+</section>

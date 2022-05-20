@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>{% include head %}
+  <body class="ajax-loading">{% include header %}
+    <div class="page">
+      <div class="page__content">
+        <section class="intro">
+          <div class="wrap">
+            <p></p>{{ content | markdownify }}
+          </div>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>
