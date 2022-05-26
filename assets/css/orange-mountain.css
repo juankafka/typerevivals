@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'BizarreProto';
+    src: url("/assets/css/Hamlet-Tertia18.woff2");
+}
+
 a,
 abbr,
 address,
@@ -62,8 +67,8 @@ summary,
 sup,
 table,
 tbody,
-td,
 tfoot,
+td,
 th,
 thead,
 time,
@@ -138,10 +143,10 @@ code,
 kbd,
 pre,
 samp {
- font-family: 'IBM Plex Mono', monospace;
+ font-family: 'Fraunces', serif;
 }
 small {
- font-size:.75em
+ font-size:.65em
 }
 img {
  border:100;
@@ -243,7 +248,7 @@ section {
  outline:0
 }
 .fluidbox__overlay {
- background-color:rgba(255,255,255,.85);
+ background-color:rgba(255,200,0,.85); /* yellow */
  cursor:pointer;
  cursor:zoom-out;
  opacity:0;
@@ -304,7 +309,7 @@ section {
  right:0
 }
 .fluidbox__loader:before {
- background-color:rgba(255,255,255,.85);
+ background-color:rgba(255,200,0,.85); /* yellow */
  content:'';
  -webkit-transform-style:preserve-3d;
  transform-style:preserve-3d;
@@ -502,13 +507,20 @@ body,
 html {
  height:100%
 }
+
+/* Background Setup
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+————————————————————————————— */
+
 body {
- background:#E0E0E0; #Grey
- font-family: 'IBM Plex Mono', monospace;
- font-weight:200;
- font-style: italic;
+ background: rgba(245, 245, 245, 1.0); /* Green */ /* Background Color Grey */
+ font-family: 'Fraunces', serif;
+ font-weight:100;
  line-height:1;
- color:#ffffff
+ color:#000 /* Orange */
 }
 h1,
 h2,
@@ -526,7 +538,8 @@ h6:first-child {
 }
 .h1,
 h1 {
- font-size:48px;
+ font-family: 'BizarreProto', serif;
+ font-size:3.25em;
  font-weight:300;
  line-height:1.2;
  letter-spacing:0em;
@@ -535,63 +548,67 @@ h1 {
 @media only screen and (min-width:768px) {
  .h1,
  h1 {
-  font-size:48px
+  font-size:3.25em;
   margin-bottom:50px
  }
 }
 @media only screen and (min-width:1220px) {
  .h1,
  h1 {
-  font-size:52px
+  font-size:3.5em;
   margin-bottom:50px
  }
 }
 .h2,
 h2 {
+ font-family: 'BizarreProto', serif;
  margin-top:10px;
- font-size:44px;
+ font-size:3.25em;
  font-weight:300;
  line-height:1.2;
- letter-spacing:0em
+ letter-spacing:0em;
+ font-feature-settings: "dlig" 1; 
 }
 @media only screen and (min-width:768px) {
  .h2,
  h2 {
-  font-size:44px
+  font-size:3em;
  }
 }
 @media only screen and (min-width:1220px) {
  .h2,
  h2 {
   margin-top:10px;
-  font-size:48px
+  font-size:3.25em;
  }
 }
 .h3,
 h3 {
+/* font-family: 'BizarreProto', serif;*/
  margin-top:28px;
- font-size:28px;
- font-weight:300;
+ font-size:1.8em;
+ font-weight:500;
  line-height:1.4;
- letter-spacing:0em
+ letter-spacing:0.01em;
+/* font-feature-settings: "dlig" 1; */
 }
 @media only screen and (min-width:768px) {
  .h3,
  h3 {
-  font-size:28px
+  font-size:1.8em;
  }
 }
 @media only screen and (min-width:1220px) {
  .h3,
  h3 {
   margin-top:5px;
-  font-size:32px
+  font-size:1.8em;
  }
 }
 .h4,
 h4 {
  margin-top:28px;
- font-size:28px;
+ font-size:1.75em;
  font-weight:300;
  line-height:1.6;
  letter-spacing:0
@@ -599,19 +616,19 @@ h4 {
 @media only screen and (min-width:768px) {
  .h4,
  h4 {
-  font-size:28px
+  font-size:1.75em
  }
 }
 @media only screen and (min-width:1220px) {
  .h4,
  h4 {
-  font-size:32px
+  font-size:1.75em
  }
 }
 .h5,
 h5 {
  margin-top:20px;
- font-size:20px;
+ font-size:1.5em;
  font-weight:300;
  line-height:1.6;
  letter-spacing:0
@@ -619,41 +636,50 @@ h5 {
 @media only screen and (min-width:768px) {
  .h5,
  h5 {
-  font-size:20px
+  font-size:1.5em
  }
 }
 @media only screen and (min-width:1220px) {
  .h5,
  h5 {
-  font-size:24px
+  font-size:1.5em
  }
 }
 .h6,
 h6 {
  margin-top:15px;
- font-size:15px;
- font-weight:bold;
+ font-size:1.25em;
+ font-weight: 400;
  line-height:1.6;
  letter-spacing:0
 }
 @media only screen and (min-width:768px) {
  .h6,
  h6 {
-  font-size:17px
+  font-size:1.25em
  }
 }
 @media only screen and (min-width:1220px) {
  .h6,
  h6 {
-  font-size:19px
+  font-size:1.25em
  }
 }
 ol,
 p,
+/* Main Body Typography
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————*/
 ul {
  margin-top:15px;
- font-size:15px;
- font-weight:100;
+ font-size:1.5em;
+ font-weight:300;
  line-height:1.6;
  letter-spacing:0
 }
@@ -661,14 +687,15 @@ ul {
  ol,
  p,
  ul {
-  font-size:17px
+  color: rgba(0, 9, 9, 1.0); /* Black */
+  font-size:1.5em;
  }
 }
 @media only screen and (min-width:1220px) {
  ol,
  p,
  ul {
-  font-size:19px
+  font-size:1.5em;
  }
 }
 ol strong,
@@ -698,14 +725,14 @@ blockquote {
  blockquote {
   border-left-width:3px;
   padding:15px 0 15px 30px;
-  font-size:35px
+  font-size:2em
  }
 }
 @media only screen and (min-width:1220px) {
  blockquote {
   border-left-width:4px;
   padding:20px 0 20px 40px;
-  font-size:45px
+  font-size:2.5em
  }
 }
 blockquote p {
@@ -716,18 +743,24 @@ blockquote p {
 }
 @media only screen and (min-width:768px) {
  blockquote p {
-  font-size:35px
+  font-size:2em
  }
 }
 @media only screen and (min-width:1220px) {
  blockquote p {
-  font-size:45px
+  font-size:2.5em
  }
 }
+/* Styling Links
+———————————————————————
+———————————————————————
+———————————————————————
+———————————————————————
+———————————————————————*/
 a {
  text-decoration:none;
- color:#ffe100;
- font-weight:700;
+ color:rgba(0, 170, 50, 1.0); /* Green */;
+ font-weight:400;
  -webkit-transition:all .15s ease-in-out;
  -moz-transition:all .15s ease-in-out;
  -ms-transition:all .15s ease-in-out;
@@ -735,14 +768,14 @@ a {
  transition:all .15s ease-in-out
 }
 a:hover {
- color:#ffe100;
+ color:rgba(255, 120, 255, 1.0); /* Pink */;
 }
 .button {
  display:inline-block;
  padding:9px 10px 10px;
  font-size:13px;
  line-height:1;
- border:2px solid #ffe100;
+ border:2px solid #ffe100 /* yellow */;
  background:#ffe100;
  color:#fff;
  font-weight:500;
@@ -752,12 +785,12 @@ a:hover {
 @media only screen and (min-width:768px) {
  .button {
   padding:11px 20px 12px;
-  font-size:15px
+  font-size:2em
  }
 }
 .button:hover {
- background:#ffe100;
- border-color:#ffe100;
+ background:#ffe100 /* yellow */;;
+ border-color:#ffe100 /* yellow */;
  color:#fff
 }
 .button svg {
@@ -783,7 +816,7 @@ a:hover {
 @media only screen and (min-width:768px) {
  .button--large {
   padding:19px 40px 20px;
-  font-size:17px
+  font-size:2em
  }
 }
 .button--light {
@@ -810,14 +843,14 @@ hr {
  margin:40px 0;
  border:0;
  height:2px;
- background:#ffe100
+ background:rgba(0, 170, 50, 1.0); /* Green */
 }
 ::selection {
- background:#000;s
+ background:#ffe100;s
  color:#fff
 }
 ::-moz-selection {
- background:#000;
+ background:#ffe100;
  color:#fff
 }
 .page-loader {
@@ -993,7 +1026,7 @@ section {
  background:#dc5b5d;
  padding:14px 10px 13px 17px;
  color:#fff;
- font-size:13px;
+ font-size:2em;
  line-height:1;
  white-space:nowrap;
  -webkit-transition:all .15s ease-in-out;
@@ -1012,7 +1045,7 @@ section {
  .buy-cta__text {
   right:60px;
   padding:22px 14px 23px 25px;
-  font-size:15px;
+  font-size:2em;
   -moz-transform:translate(0,30px);
   -o-transform:translate(0,30px);
   -ms-transform:translate(0,30px);
@@ -1046,24 +1079,35 @@ section {
  width:100%;
  height:auto
 }
+/* Website Header Title Big
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————*/
 .header__title {
- font-size:36px;
- font-weight:700;
+ font-family: 'BizarreProto', serif;
+ font-size:2em;
+ font-weight:300;
  letter-spacing:0em;
  line-height:1;
- color:#ffffff
+ color: rgba(0, 170, 50, 1.0); /* Green */
 }
 .header__title:hover {
- color:#ffe100
+ /*color: rgba(255, 160, 0, 1.0);  Yellow */
+ color: rgba(255, 120, 255, 1.0); /* Pink */
 }
 @media only screen and (min-width:768px) {
  .header__title {
-  font-size:30px
+  font-size:4em
  }
 }
 @media only screen and (min-width:1220px) {
  .header__title {
-  font-size:36px
+  font-size:4.5em
  }
 }
 @media only screen and (min-width:768px) {
@@ -1208,36 +1252,46 @@ section {
   margin-left:0
  }
 }
+/* Top Menu Headline Items
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+—————————————————————————————
+————————————————————————————— */
 .menu__list__item__link {
- font-size:24px;
- font-weight:500;
+ font-family: 'BizarreProto', serif;
+ font-size:1.5em;
+ font-weight:400;
  color:#fff;
  padding:10px 0
 }
 .menu__list__item__link:hover {
- color:#ffe100
+ color: rgba(255, 120, 255, 1.0); /* Pink */
 }
 @media only screen and (min-width:768px) {
  .menu__list__item__link {
   padding:0 0 3px;
-  font-size:18px;
-  color:#ffffff
+  font-size:1.5em;
+  letter-spacing: .01em;
+  color: rgba(0, 170, 50, 1.0); /* Green */
  }
  .menu__list__item__link:hover {
-  color:#ffe100
+  color: rgba(255, 120, 255, 1.0); /* Pink */
  }
 }
 @media only screen and (min-width:1220px) {
  .menu__list__item__link {
-  font-size:24px
+  font-size:1.5em;
  }
 }
 .menu__list__item__link.active-link {
- color:#ffe100
+ color: rgba(255, 120, 255, 1.0); /* Pink */
 }
 @media only screen and (min-width:768px) {
  .menu__list__item__link.active-link {
-  color:#ffe100
+  color: rgba(255, 120, 255, 1.0); /* Pink */
  }
 }
 .menu__button {
@@ -2118,6 +2172,14 @@ section {
 .listing-item__image {
  width:100%
 }
+
+/*Cover Hover Typography
+————————————————————————
+————————————————————————
+————————————————————————
+————————————————————————
+————————————————————————
+*/
 .listing-item__content {
  position:absolute;
  top:0;
@@ -2126,7 +2188,7 @@ section {
  left:0;
  display:flex;
  padding:17px 20px;
- background:rgba(255,255,255,.5);
+ background:rgba(255, 220, 255, .75); /* Pink */;
  opacity:0;
  visibility:hidden;
  -webkit-transition:all .3s ease-in-out;
@@ -2150,7 +2212,7 @@ section {
 }
 .listing-item__info {
  opacity:0;
-  display: block;
+ display: block;
  font-size:22px;
  margin-left: auto;
  margin-right: auto;
@@ -2168,9 +2230,11 @@ section {
  transition:all .3s ease-in-out
 }
 .listing-item__title {
- color:#000000;
+ color:#000 /* black */; /* Green */;
  display: block;
- font-size:22px;
+ font-size:3em;
+ line-height: 1em;
+ text-align: center;
  margin-left: auto;
  margin-right: auto;
  font-weight:500;
@@ -2178,12 +2242,12 @@ section {
 }
 @media only screen and (min-width:768px) {
  .listing-item__title {
-  font-size:24px
+  font-size:3em
  }
 }
 @media only screen and (min-width:1220px) {
  .listing-item__title {
-  font-size:28px
+  font-size:3em
  }
 }
 .listing-item__subtitle {

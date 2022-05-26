@@ -2,12 +2,14 @@
 layout: project
 title:  Leo Vicenti
 teaser: /assets/img/Leo_Vicenti/00.png
-class: summer_2020
+class: spring_2022
 ---
 ###### Type@Cooper Display Type, Summer 2020 ######
 ---
-## "Daanazaa" ##
+## Béshí ##
 ### by Leo Vicenti ###
+<br>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/jIvaEdOav44?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 My goal for this project was to create a pan-indigenous typeface that supported our Jicarilla Apache language revitalization efforts. After initial creative directions the project manifested as a display typeface created for road signage applications.
 <br><br>

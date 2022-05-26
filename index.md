@@ -1,4 +1,4 @@
 ---
-title: Display Type Design
+title: Type Revivals
 layout: projects
 ---
