@@ -11,19 +11,15 @@ class: spring_2022
 <br>
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/VwgM4veXoRE?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-JOSEFA is a revival type design project based on the punches used to print the first Bolivian newspaper, EL CÓNDOR DE BOLIVIA, 1825 - 1828.
+Heyse Neue is a revival of Heyse Antiqua, which was designed by german type designer Friedrich Bauer in 1926 for the german type foundry Genzsch & Heyse. The initial goal for this project was to design a text typeface and to try to respect as much as possible the original design, to make it more restorative than interpretative. I was drawn to the typeface because of its contrast and proportions and upon more research I found that it was thought to be a modern font, with really simple and quiet forms, so I tried to keep that through my digital reinterpretation.
 <br><br>
 ![image1](/assets/img/Estefania_Leyva/01.png)
 <br>
-The source material was under the Scotch Roman category and it was an anglo variation on Modern/Didone type. After the last issue of EL CÓNDOR DE BOLIVIA was printed (1828), Printing started growing in many directions, like education, and other publications. Writers, historians and people involved in arts created the Bolivian Typographical Society. In that group there were two women, both named JOSEFA.
+For this project I had the goal to take and keep the letterforms that existed on the original design, but also try to imagine how it would be designed in today's time, and how it would look and work in the media we have today. Since the original design worked as a text but also a display type, I tried to stick to the smaller sizes to base my design on.
 <br><br>
 ![image2](/assets/img/Estefania_Leyva/02.png)
 <br>
-I dedicated an important amount of time to research, until I found information about the first Bolivian newspaper, EL CÓNDOR DE BOLIVIA. I got access to the complete facsimile with the 134 issues, and a doctoral history thesis “Typographers and the beginnings of printing in Bolivia” where I found valuable information for my project.
-
-For the first drawings I used Glyphs collector and high-resolution scans. Since the source material had so many stains and undefined shapes, I worked with a lot of observation and comparison guided by similar references, according to the style and time period.
-
-The main challenge was to reach consistency in terms of contrast, weight between Uppercase vs lowercase. Currently I am working on Josefa’s decorations, since the facsimile shows great material for dingbats.
+Along the way there were some challenges in trying to understand some of the shapes and the contrast, as there were some letters that did not match that well with the overall stress, so I had to modify some of these to make it work better in the whole system. I always kept in mind to only make modifications in the shapes of the letters whenever necessary to make it functional and more cohesive. It was a project full of learning and it helped me understand better how text faces work and the importance of white space in all parts of type design. 
 <br><br>
 
 ![image3](/assets/img/Estefania_Leyva/03.png)
@@ -44,6 +40,6 @@ The main challenge was to reach consistency in terms of contrast, weight between
 
 ---
 ## Estefanía Leyva ##
-Estefania Leyva is a graphic designer and educator. Currently teaching at UPB Cochabamba, Bolivia, and working at her own design studio. Constant learner of type design, lettering, calligraphy, illustration techniques, and everything related to design and art in general.
+Estefanía is a mexican graphic designer with a special focus in editorial design and an aspiring type designer with big love for letters in all its forms. Always passionate for learning and to share her learnings, she also teaches Typography and other workshops.
 <br>
-###### [Email](mailto:ana.michel@gmail.com), [Website](https://www.behance.net/Estefania_Leyva), [Instagram](https://www.instagram.com/anamicheldesign/), [Twitter](https://twitter.com/AnaMich85101660/) ######
+###### [Email](mailto:estefania.leyvar@gmail.com), [Website](http://www.estefanialeyva.com), [Instagram](https://www.instagram.com/estefania_leyva/) ######

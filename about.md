@@ -32,7 +32,7 @@ Here are a few places to get your started:
 ### About the Instructors ###
 <br>
 <!-- <h2 style="font-size: 10em"> soldat </h2> -->
-<i>Juan Villanueva </i> is a Peruvian typeface designer, letterer, and educator in New York City. Juan is a Sr. Type Designer at Monotype and the lead instructor of Type West Online. He’s a graduate of the Type@Cooper Extended program and the founder of Type Crit Crew, an initiative to make type design education more accessible and inclusive to students anywhere in the world. When he’s not drawing letters, he’s probably running, cycling, or making more coffee.
+Juan Villanueva is a Peruvian typeface designer, letterer, and educator in New York City. Juan is a Sr. Type Designer at Monotype and the lead instructor of Type West Online. He’s a graduate of the Type@Cooper Extended program and the founder of Type Crit Crew, an initiative to make type design education more accessible and inclusive to students anywhere in the world. When he’s not drawing letters, he’s probably running, cycling, or making more coffee.
 
 ###### [Website](http://www.juankafka.com/), [Instagram](https://www.instagram.com/juan_kafka/), [Twitter](https://twitter.com/juan_kafka/), <a href = "mailto: jv.kafka@gmail.com">Email</a> ######
 <br>
