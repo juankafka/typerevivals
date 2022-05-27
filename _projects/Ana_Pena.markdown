@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Ana Peña
+title:  Anita Lavalatina
 teaser: /assets/img/Ana_Pena/00.png
 class: spring_2022
 ---
