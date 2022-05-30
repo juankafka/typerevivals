@@ -11,9 +11,9 @@ class: spring_2022
 <br>
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/jIvaEdOav44?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-My goal for this project was to create a pan-indigenous typeface that supported our Jicarilla Apache language revitalization efforts. After initial creative directions the project manifested as a display typeface created for road signage applications.
+Béshí is a revival of Oldrich Menhart's copyrighted typeface, Parlament (1950-1951). My goal in this project was to offer language support for my indigenous Jicarilla Apache language. Inspiration for this project was taken from Menhart's unique style and use of diacritics.
 <br><br>
-The low expansion model was inspired by writing using a "shoe" style broad nib dip pen. 
+My research entailed looking through multiple historical resources, utilizing comparative texts, searching for clues in social media and lots of drawing and printing.
 <br><br>
 
 ![image1](/assets/img/Leo_Vicenti/01.png)
@@ -36,7 +36,6 @@ The low expansion model was inspired by writing using a "shoe" style broad nib d
 
 ---
 ## Leo Vicenti ##
-Leo Vicenti is a passionate lifelong learner who supports Indigenous Cultures through the practice of Visual Communication Design.
-Leo Vicenti is an enrolled member of the Jicarilla Apache Nation.
+Leo Vicenti (Jicarilla Apache) holds an MFA from The School of the Art Institute of Chicago (SAIC) where his research in visual communication design explores the relationships between indigenous languages and design. His current research approaches indigenous language preservation, revitalization, and the return of these languages to everyday use through the development of language support in typography and representation in the design field.
 <br>
-###### [Website](https://lvicenti.com/), [Instagram](https://www.instagram.com/lowerearthorigin/) ######
+###### [Email](mailto:leo@lvicenti.com), [Website](https://lvicenti.com/), [Instagram](https://www.instagram.com/lowerearthorigin/) ######

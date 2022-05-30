@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Anita Lavalatina
-teaser: /assets/img/Ana_Pena/00.png
+teaser: /assets/img/Anita_Lavalatina/00.png
 class: spring_2022
 ---
 ###### Type West Online, Term 1, Spring 22 ######
@@ -13,26 +13,26 @@ class: spring_2022
 <br>
 Type revival of Jost Mediaeval Antiqua, originally designed by Heinrich Jost for the Ludwig & Mayer Foundry. Emancipada contains an important number of Glyphs that allows it to be used in different languages and a stylistic Character set with a few variations. Emancipada is a Variable Font with to weights: Regular and Halbfette
 <br><br>
-![image1](/assets/img/Ana_Pena/01.png)
+![image1](/assets/img/Anita_Lavalatina/01.png)
 <br>
 I found the especimen of this Typeface in the online Letterform Archive. I used the scans to do the digitalization. During my research process I did some tracing excersice to understand the shapes, the investigation and the compararon with another similar typefaces of the same age, helped me to have a more clear idea of the real form of the letters, cleaning up the ink spread that exist in the specimen
 <br><br>
 
-![image2](/assets/img/Ana_Pena/02.png)
+![image2](/assets/img/Anita_Lavalatina/02.png)
 <br><br>
-![image3](/assets/img/Ana_Pena/03.png)
+![image3](/assets/img/Anita_Lavalatina/03.png)
 <br><br>
-![image4](/assets/img/Ana_Pena/04.png)
+![image4](/assets/img/Anita_Lavalatina/04.png)
 <br><br>
-![image5](/assets/img/Ana_Pena/05.png)
+![image5](/assets/img/Anita_Lavalatina/05.png)
 <br><br>
-![image6](/assets/img/Ana_Pena/06.png)
+![image6](/assets/img/Anita_Lavalatina/06.png)
 <br><br>
-![image7](/assets/img/Ana_Pena/07.png)
+![image7](/assets/img/Anita_Lavalatina/07.png)
 <br><br>
-![image8](/assets/img/Ana_Pena/08.png)
+![image8](/assets/img/Anita_Lavalatina/08.png)
 <br><br>
-![image9](/assets/img/Ana_Pena/09.png)
+![image9](/assets/img/Anita_Lavalatina/09.png)
 
 ---
 ## Anita Lavalatina ##

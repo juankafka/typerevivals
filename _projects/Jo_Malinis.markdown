@@ -17,18 +17,18 @@ Hajduk Antiqua was designed by August Hajduk and cast by the Bauer Type Foundry 
 <br>
 Because there is not much information on this typeface online, I researched August Hajduk’s background–which was in advertising and graphic design. I looked at some of the ads that he did and noticed that the same hand-drawn feel was present in his illustration and lettering work.
 <br><br>
-![image4](/assets/img/Jo_Malinis/04.png)
+![image2](/assets/img/Jo_Malinis/02.png)
 <br>
 Apart from faithfully trying to copy the forms of each glyph, my main goal was to try to preserve the energy of the original specimen. I made sure that no sharp corners would be present in the verticals, and most lines would have a very slight concave to them. Inconsistencies from the source specimen, like the differences in ball terminals and some other awkward forms, were things that I did not necessarily “correct,” but I made decisions to make them work better with each other.
 <br><br>
-![image2](/assets/img/Jo_Malinis/02.png)
+![image3](/assets/img/Jo_Malinis/03.png)
 <br>
 Some roadblocks that I encountered were trying to get the vertical metrics right, harmonizing the spacing of the uppercase and lowercase letters, and figuring out character proportions.
 
 After going through all of these, I am proud to say that I am truly pleased with the outcome of this revival. I look forward to further developing it in the future.
 <br><br>
 
-![image3](/assets/img/Jo_Malinis/03.png)
+![image4](/assets/img/Jo_Malinis/04.png)
 <br><br>
 ![image5](/assets/img/Jo_Malinis/05.png)
 <br><br>

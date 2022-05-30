@@ -33,8 +33,6 @@ Check your sources and make serifs cool again.
 ![image8](/assets/img/Alejandro_Bautista/08.png)
 <br><br>
 ![image9](/assets/img/Alejandro_Bautista/09.png)
-<br><br>
-![image10](/assets/img/Alejandro_Bautista/10.png)
 
 ---
 ## Alejandro Bautista ##

@@ -20,13 +20,13 @@ Here are a few places to get your started:
 
 ✨ [Foundations of Type Design](https://typedesignschool.com/) with by Lynne Yun at Type Design School.
 
-✨ [Principles of Typeface Design](http://coopertype.org/workshops/nyc/nyc)  with Troy Leinster at Type@Cooper.
+✨ [Principles of Typeface Design](http://coopertype.org/workshops/nyc/nyc) with Troy Leinster at Type@Cooper.
 
 ✨ [Principles of Typeface Design: Display Type](http://coopertype.org/workshops/nyc/nyc) with Zrinka Buljubašić at Type@Cooper.
 
 ✨ [Introduction to Modern Type Design](https://letterformarchive.org/events/cat/C2/workshops) with by Kel Troughton at TypeWest.
 
-✨ If you're a student, check out the , an initiative that I started to help you get in touch with experienced type designers.
+✨ [Type Crit Crew](https://typecritcrew.com), an initiative that enables type design students to get in touch with experienced type designers for virtual 1-1 meetings.
 <br><br>
 
 ### About the Instructors ###

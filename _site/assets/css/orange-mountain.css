@@ -518,7 +518,7 @@ html {
 body {
  background: rgba(245, 245, 245, 1.0);/* Background Color Grey */
  font-family: 'Fraunces', serif;
- font-weight:200;
+ font-weight:100;
  line-height:1;
  color:#000000 /* Orange */
 }
@@ -1286,7 +1286,7 @@ section {
   color: rgba(0, 170, 50, 1.0); /* Green */
  }
  .menu__list__item__link:hover {
-  color: rgba(0, 170, 50, 1.0); /* Green */
+  color: rgba(255, 120, 255, 1.0); /* Pink */
  }
 }
 @media only screen and (min-width:1220px) {
