@@ -8,7 +8,7 @@ Recreating a historical typeface is a great teaching tool for learning type desi
 
 Over a period of ten weeks, twenty-two students from all over the world have been diligently researching, studying, and digitizing text typefaces that—in most cases—haven’t been digitized before. 
 
-This showcase reveals some of the process behind reviving type and celebrates the work of our students. We hope you enjoy the showcase and fall in love with the letterforms.
+This showcase reveals some of the process behind reviving type and celebrates the work of our students. We hope you enjoy the showcase and fall in love with letterforms.
 <br><br>
 
 ### Interested in Type West Online? ###
