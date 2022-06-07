@@ -9,7 +9,7 @@ class: spring_2022
 ## Emancipada ##
 ### Anita Lavalatina ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/0ix8gi01QF8?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715824197?h=09f3aebc0c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Anita Lavalatina, Emancipada"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Type revival of Jost Mediaeval Antiqua, originally designed by Heinrich Jost for the Ludwig & Mayer Foundry. Emancipada contains an important number of Glyphs that allows it to be used in different languages and a stylistic Character set with a few variations. Emancipada is a Variable Font with to weights: Regular and Halbfette
 <br><br>

@@ -9,7 +9,7 @@ class: spring_2022
 ## Ruggedless Roman ##
 ### Bree Rice ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/lshkVOJw_Z4?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715824481?h=0a37bbf8e9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bree Rice, Ruggedless Roman"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Ruggedless Roman is revived from the typeface Rugged Roman which was designed by Morris Fuller Benton at American Type Founders Company from 1909-1911, and debuted in 1917. My main modification to the typeface was stripping its bumpy features while trying to keep the letterforms as true to the original shapes as possible.
 <br><br>

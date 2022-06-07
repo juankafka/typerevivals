@@ -9,7 +9,7 @@ class: spring_2022
 ## El Viejo ##
 ### Iván Castro ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/phqq-A74qLs?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715825993?h=0eadec5c40&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Iv&amp;aacute;n Castro, El Viejo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 El Viejo (the Elder) is a digital homage on reviving Behrens-Mediäval (Peter Behrens – 1914), with a suitable approach of letterforms for reading.
 <br><br>

@@ -9,7 +9,7 @@ class: spring_2022
 ## Labor ##
 ### Leopoldo Leal ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/UWzGWYWa9Sw?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715827334?h=e5efec9005&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Leopoldo Leal, Labor"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Labor is a text typeface with long and sharp serifs. The project was based on the Ronaldson typeface, designed by Alexander Kay and originally published by MacKellar, Smiths & Jordan in 1884. The sharp and long serifs are so unique and reminds the work tools that presents the idea of making is thinking.
 <br><br>

@@ -9,7 +9,7 @@ class: spring_2022
 ## Vittoria Manuale ##
 ### Gina Roi ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/55JRKd4jKvw?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715825883?h=74e975beec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gina Roi, Vittoria Manuale"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Vittoria Manuale means “Manual Victory” (in google translate Italian) and this typeface was just that for me! The revival is based off of a New York City type foundry, Bruce’s Son & co’s #20. I found a book printed in 1901 at a bookstore called “Come fu Educato Vittorio Emanuale III” about how the last King of Italy was educated. I have a much bigger appreciation for text typefaces that I didn’t expect. There are patterns and harmonies between letters I never noticed before and I’m excited to discover even more.
 <br><br>

@@ -9,7 +9,7 @@ class: spring_2022
 ## Heyse Neue ##
 ### Estefanía Leyva ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/VwgM4veXoRE?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715825598?h=94c5a569b3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Estefan&amp;iacute;a Leyva, Heyse Neue"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Heyse Neue is a revival of Heyse Antiqua, which was designed by german type designer Friedrich Bauer in 1926 for the german type foundry Genzsch & Heyse. The initial goal for this project was to design a text typeface and to try to respect as much as possible the original design, to make it more restorative than interpretative. I was drawn to the typeface because of its contrast and proportions and upon more research I found that it was thought to be a modern font, with really simple and quiet forms, so I tried to keep that through my digital reinterpretation.
 <br><br>

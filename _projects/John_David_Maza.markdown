@@ -9,7 +9,7 @@ class: spring_2022
 ## Furcula ##
 ### John David Maza ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/A9iKchCexmI?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715827044?h=c1db5bc956&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="John David Maza, Furcula"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Furcula is my text typeface revival project based on a specimen of Jakob Erbar’s Erbar Medieval at 10 points. The name came from the way the shape of the serifs looked like the larger piece of a cracked wishbone. 
 <br><br>

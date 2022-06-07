@@ -9,7 +9,7 @@ class: spring_2022
 ## Schleiferei ##
 ### Oskar Phuong Nguyen ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/NZmju5UUp_c?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715827487?h=7a72c3585e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Oskar Phuong Nguyen, Schleiferei"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Schleiferei (grinding shop) is a revival of Trajanus. For this project, I referenced 2 main sources, Trajanus Specimen from Stempel type foundry and the book “Das Triptychon von den Heiligen Drei Königen” from Insel Publisher, 1966.
 <br><br>

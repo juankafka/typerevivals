@@ -9,7 +9,7 @@ class: spring_2022
 ## Béshí ##
 ### by Leo Vicenti ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/jIvaEdOav44?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715827172?h=100e8d6b30&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Leo Vicenti, B&amp;eacute;sh&amp;iacute;"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Béshí is a revival of Oldrich Menhart's copyrighted typeface, Parlament (1950-1951). My goal in this project was to offer language support for my indigenous Jicarilla Apache language. Inspiration for this project was taken from Menhart's unique style and use of diacritics.
 <br><br>

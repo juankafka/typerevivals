@@ -9,7 +9,7 @@ class: spring_2022
 ## Stringer ##
 ### Emily Klaebe ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/bTB4YlpiTpg?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715825505?h=4f9ef31c86&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Emily Klaebe, Stringer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Stringer is a contemporary grotesque slab style serif, revived from the 1926 version of Ionic No. 3, by the Miller & Richard Foundry.
 <br><br>

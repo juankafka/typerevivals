@@ -9,7 +9,7 @@ class: spring_2022
 ## Chlorophylle ##
 ### Carine Vadet-Perrot ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/o3lCwthOLLc?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715824919?h=63bc4009cf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Carine Vadet-Perrot, Chlorophylle"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Blossoming from the 1857 typeface Beaudoire, Chlorophylle is the typeface that sharpened my eyes and my thoughts during my first term at Type West. Among all the options my research brought me, Beaudoire seemed to be at the same time a pleasure for the eyes, and comfortable for readers.
 <br><br>

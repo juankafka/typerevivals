@@ -9,7 +9,7 @@ class: spring_2022
 ## Fox & Beeler Cloister ##
 ### David Sargent ###
 <br>
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/XsbrQsOXqKo?rel=0&modestbranding=1&autohide=1&controls=1&showinfo=0&showtitle=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/715825346?h=1992f5e99f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="David Sargent, Fox &amp;amp; Beeler Cloister"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Fox & Beeler Cloister is my revival of “Cloister”, a single-weight, low contrast Latin typeface distributed by Reed & Fox in London from 1874 to 1899. The original uppercase and numerals were designed for display use and were drawn by Charles H. Beeler Jr. for MacKellar, Smiths & Jordan in Philadelphia, 1873. The designer of the unauthorised lowercase is unknown but is likely to be Benjamin Fox.
 <br><br>
