@@ -54,6 +54,6 @@ Grandson pays its deepest homage to Nicolas Jenson. It aims to serve our modern 
 ## Jessica Kao ##
 Jessica Kao is an art director, designer, researcher, and educator interested in a practice across disciplines. She designs with a holistic approach, while at the same time bringing a unique perspective to projects. Whenever she can, she speculates and blends in whimsy! 
 
-Currently sun-bathed in Los Angeles, Jessica has worked internationally and locally in collaboration with a diversity of clients. Please email her at hello@jessica-kao.com to inquire about her work or simply to share a conversation.
+Currently sun-baked in Los Angeles, Jessica has worked internationally and locally in collaboration with a diversity of clients. Please email her at hello@jessica-kao.com to inquire about her work or simply to share a conversation.
 <br>
-###### [Email](mailto:ana.michel@gmail.com), [Website](http://jessica-kao.com/), [Instagram](https://www.instagram.com/_jessicakao) ######
+###### [Email](mailto:hello@jessica-kao.com), [Website](http://jessica-kao.com/), [Instagram](https://www.instagram.com/_jessicakao) ######
